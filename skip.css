@@ -1,0 +1,19 @@
+div{
+    margin-top: 20px;
+    border: 2px solid black;
+    width: 1680px;
+    height: 750px;
+    background-image: url(./star.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#click{
+margin-top: 650px;
+margin-left: 1530px;
+height: 70px;
+font-size: 17px;
+font-weight: bold;
+width: 150px;
+background: black;
+color: white;
+}

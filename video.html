@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // Function to check for the "Skip Ad" button and click it
+function skipAd() {
+    // Look for the "Skip Ad" button using its CSS selector
+    const skipButton = document.querySelector('.ytp-ad-skip-button');
+
+    if (skipButton) {
+        skipButton.click(); // Click the "Skip Ad" button if found
+        console.log("Ad skipped!");
+    }
+}
+
+// Set an interval to check every second
+const skipInterval = setInterval(skipAd, 1000);
+
+    </script>
+</body>
+</html>
