@@ -2,8 +2,8 @@
 div{
     margin-top: 20px;
     border: 2px solid black;
-    width: 1480px;
-    height: 750px;
+    width: 1080px;
+    height: 700px;
     background-image: url(./star.jpg);
     background-position: center;
     background-size: cover;
@@ -12,8 +12,8 @@ div{
 /* Button */
 
 #click{
-margin-top: 650px;
-margin-left: 1330px;
+margin-top: 600px;
+margin-left: 932px;
 height: 70px;
 font-size: 17px;
 font-weight: bold;
