@@ -2,7 +2,7 @@
 div{
     margin-top: 20px;
     border: 2px solid black;
-    width: 1680px;
+    width: 1480px;
     height: 750px;
     background-image: url(./star.jpg);
     background-position: center;
@@ -13,7 +13,7 @@ div{
 
 #click{
 margin-top: 650px;
-margin-left: 1530px;
+margin-left: 1330px;
 height: 70px;
 font-size: 17px;
 font-weight: bold;
